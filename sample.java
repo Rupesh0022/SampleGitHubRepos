@@ -1,0 +1,4 @@
+class Sapmle
+{
+  int sample ;
+}
